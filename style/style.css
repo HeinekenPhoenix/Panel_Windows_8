@@ -3,13 +3,16 @@
 
 body{
     margin-left: 100px;
+    background: url(../img/windows_background.jpg);
+    background-repeat: no-repeat;
+    width: 1440px;
 }
 /*header-start*/
 
 .header-cont{
     display: flex;
     margin-top: 50px;
-    gap: 1000px;
+    gap: 900px;
 }
 
 .header-cont__logo__name{
